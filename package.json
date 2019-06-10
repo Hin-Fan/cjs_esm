@@ -2,7 +2,7 @@
   "name": "cjs_esm",
   "version": "1.0.0",
   "description": "Demonstrate different ways to import/export CJS and ESM with JS/MJS extension on both node and mocha",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "directories": {
     "test": "test"
